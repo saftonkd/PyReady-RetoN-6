@@ -18,11 +18,11 @@ Los diagramas de flujo para los primeros tres ejercicios se muestran a continuac
 [<div align="center">![](https://i.postimg.cc/dVGFhDkD/Diagrama-de-flujo-Diagrama-de-flujo-1.png)</div>](https://postimg.cc/gxcQ5zKP)
 
 <div align="center"><strong> Diagrama de flujo para el segundo ejercicio </div></strong>
-
+<br></br>
 
 [<div align="center">![](https://i.postimg.cc/43ZgVZVP/Diagrama-de-flujo-Diagrama-de-flujo-2.png)</div>](https://postimg.cc/gxMQbCML)
 
 <div align="center"><strong> Diagrama de flujo para el tercer ejercicio </div></strong>
-
+<br></br>
 
 Conclusión: Todos los ejercicios planteados son solucionables algorítmicamente.
