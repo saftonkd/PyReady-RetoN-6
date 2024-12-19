@@ -8,7 +8,7 @@
 Se analizó la función _append()_ para indexar elementos a una variable de tipo lista.
 Los diagramas de flujo para los primeros tres ejercicios se muestran a continuación:
 
-[<center>![](https://i.postimg.cc/65kw6CQD/Diagrama-de-flujo-Diagrama-de-flujo.png)](https://postimg.cc/2V7g2bhw)</center>
+[[<center>![](https://i.postimg.cc/65kw6CQD/Diagrama-de-flujo-Diagrama-de-flujo.png)</center>](https://postimg.cc/2V7g2bhw)]
 
 [![](https://i.postimg.cc/dVGFhDkD/Diagrama-de-flujo-Diagrama-de-flujo-1.png "Diagrama de flujo para el segundo ejercicio")](https://postimg.cc/gxcQ5zKP)
 
