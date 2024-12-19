@@ -1,6 +1,7 @@
 # **Universidad Nacional de Colombia**
 ## **Programación de Computadores (Código 2015734)**
-### **Repositorio elaborado por**: Santiago Romero Mejía
+### **Repositorio elaborado por:** Santiago Romero Mejía
+==
 
 >**Objetivo**: Solucionar los problemas planteados en el Reto #6 (Repositorio de la clase #10)
 
